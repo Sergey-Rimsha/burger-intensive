@@ -286,6 +286,12 @@ body {
 	margin-left: 674px;
 }
 
+.order-form-text {
+	font-size: 24px;
+	line-height: 29px;
+	text-align: center;
+}
+
 .order-form-inputs {
 	display: flex;
 	flex-direction: column;
